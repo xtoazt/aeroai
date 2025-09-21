@@ -7,6 +7,7 @@ without heavy ML dependencies like PyTorch, Transformers, etc.
 import json
 import httpx
 import asyncio
+import os
 from typing import List, Dict, Any, Optional
 from dataclasses import dataclass
 from enum import Enum
