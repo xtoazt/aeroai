@@ -25,10 +25,5 @@
   ],
   "env": {
     "PYTHONPATH": "/var/task"
-  },
-  "functions": {
-    "api/main.py": {
-      "maxDuration": 30
-    }
   }
 }
